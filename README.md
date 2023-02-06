@@ -1,4 +1,4 @@
-# CodeTutor
+# ChatBot
 Made with OpenAI
 
 <br>
